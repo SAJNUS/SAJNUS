@@ -15,7 +15,8 @@
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,php,mysql&theme=dark&perline=10)](https://skillicons.dev)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajnus&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajnus&show_icons=true&locale=en" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajnus&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" width="45%" />
 </p>
 
 <p align="left">

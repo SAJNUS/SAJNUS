@@ -14,11 +14,11 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,php,mysql&theme=dark&perline=10)](https://skillicons.dev)
 
-<p align="left" style="display: flex; gap: 10px;">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sajnus&show_icons=true&locale=en"
        alt="GitHub Stats"
-       style="flex: 1; height: 200px;" />
+       width="49%" height="200px" style="vertical-align: top; margin-right: 1%;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajnus&"
        alt="GitHub Streak Stats"
-       style="flex: 1; height: 200px;" />
+       width="49%" height="200px" style="vertical-align: top;" />
 </p>

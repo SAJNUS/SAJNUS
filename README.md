@@ -1,16 +1,27 @@
-## Hi there 👋
+ <h1 align="center">Hello 😀, I'm Sajnus Saharear Hojayfa</h1>
 
-<!--
-**SAJNUS/SAJNUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on <b>Web Development</b> 
+- I’m currently learning <b>Backend</b>
+- Ask me about <b>HTML, CSS, JS</b>
+- How to reach me: sajnussaharearhojayfa@gmail.com
+- Fun fact: I'm boring
+  
+### Connect with me:
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/sajnus.saharear.hojayfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sajnus.saharear.hojayfa" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,php,mysql&theme=dark&perline=10)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajnus&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajnus&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajnus&" alt="GitHub Streak Stats" />
+</p>

@@ -17,8 +17,9 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sajnus&show_icons=true&locale=en"
        alt="GitHub Stats"
-       width="49%" height="200px" style="vertical-align: top; margin-right: 1%;" />
+       height="200px" style="vertical-align: top; flex: space-between;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajnus&"
        alt="GitHub Streak Stats"
-       width="49%" height="200px" style="vertical-align: top;" />
+       height="200px" style="vertical-align: top;"/>
 </p>
+

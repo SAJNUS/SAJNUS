@@ -22,3 +22,6 @@
        alt="GitHub Streak Stats"
        width="51%" />
 </p>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajnus&theme=react-dark" alt="GitHub Contribution Graph" width="99.5%" />
+</p>

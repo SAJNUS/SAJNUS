@@ -14,12 +14,18 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,php,mysql&theme=dark&perline=10)](https://skillicons.dev)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajnus&show_icons=true&locale=en"
-       alt="GitHub Stats"
-       height="200px" style="vertical-align: top; flex: space-between;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajnus&"
-       alt="GitHub Streak Stats"
-       height="200px" style="vertical-align: top;"/>
-</p>
+<table>
+  <tr>
+    <td width="49%" valign="top" align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=sajnus&show_icons=true&locale=en"
+           alt="GitHub Stats" height="200">
+    </td>
+    <td width="2%"></td> <!-- spacer -->
+    <td width="49%" valign="top" align="right">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajnus&"
+           alt="GitHub Streak Stats" height="200">
+    </td>
+  </tr>
+</table>
+
 

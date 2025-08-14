@@ -8,7 +8,7 @@
   
 ### Connect with me:
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/sajnus.saharear.hojayfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sajnus.saharear.hojayfa" width="4.5%" /></a>
+<a href="https://fb.com/https://www.facebook.com/sajnus.saharear.hojayfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sajnus.saharear.hojayfa" width="5%" /></a>
 </p>
 
 ### Languages and Tools:

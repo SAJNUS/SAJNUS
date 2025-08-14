@@ -12,7 +12,7 @@
 </p>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,php,mysql&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,php,mysql&theme=light&perline=10)](https://skillicons.dev)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sajnus&show_icons=true&locale=en"

@@ -15,13 +15,13 @@
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,php,mysql&theme=dark&perline=10)](https://skillicons.dev)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajnus&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajnus&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" width="100%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajnus&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajnus&show_icons=true&locale=en" alt="GitHub Stats" width="100%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajnus&" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajnus&" alt="GitHub Streak Stats" width="100%" />
 </p>

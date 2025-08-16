@@ -3,14 +3,8 @@
 - I’m currently working on <b>Web Development</b> 
 - I’m currently learning <b>Backend</b>
 - Ask me about <b>HTML, CSS, JS</b>
-- How to reach me: sajnussaharearhojayfa@gmail.com
 - Fun fact: I'm boring
   
-### Connect with me:
-<p align="left">
-<a href="https://www.facebook.com/sajnus.saharear.hojayfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sajnus.saharear.hojayfa" height="48px" width="48px" /></a>
-</p>
-
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,php,mysql&theme=light&perline=10)](https://skillicons.dev)
 
